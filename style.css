@@ -38,6 +38,7 @@ input{
     background-color: rgb(66, 161, 255);
     border: none;
     border-radius: 6px;
+    outline: none;
 }
 #adicionar:hover{
     background-color: rgb(24, 138, 252);
